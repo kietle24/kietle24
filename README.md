@@ -47,8 +47,8 @@ I'm an independent full-stack developer with a passion for creating efficient, u
 ---
 
 ## 📫 Connect with Me
-- **[LinkedIn](https://linkedin.com/in/yourusername)** – Let’s connect professionally!
-- **[Twitter](https://twitter.com/yourusername)** – Follow me for tech news (and a little humor).
+- **[LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/l%C3%AA-anh-ki%E1%BB%87t-9925b3360/))** – Let’s connect professionally!
+- **[x](https://twitter.com/yourusername)** – Follow me for tech news (and a little humor).
 - **[Website](https://yourwebsite.com)** – Explore my portfolio and projects.
 
 <p>Have a project idea or just want to say hello? Feel free to reach out—I promise I won’t bite! 😉</p>
