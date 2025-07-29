@@ -1,6 +1,6 @@
 <div align="center">
 <h1>🏄‍♂️ Kane David</h1>
-<p><em>Full-Stack Developer </em></p>
+<p><em>Coder </em></p>
 <p>Turning ideas into reality with every line of code—because the world needs more solutions!</p>
 </div>
 
